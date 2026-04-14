@@ -1,13 +1,13 @@
 {
     "disableAutoUpdate": false,
 	"name": "exit-instantly",
-	"author": "teralove",
+	"author": "teralove/menti1337",
 	"description": "Exit the game without having to wait 10 seconds.",
-    "version": "1/24/2019",
-    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A",  
+    "version": "4/14/2026",
+    "donationUrl": "",  
 	"options": {
 		"niceName": "Exit Instantly"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/exit-instantly/master/"],
-    "supportUrl": "https://github.com/teralove/exit-instantly/issues"
+    "servers": ["https://github.com/menti1337/tera-exit-instantly"],
+    "supportUrl": "https://github.com/menti1337/tera-exit-instantly/issues"
 }
